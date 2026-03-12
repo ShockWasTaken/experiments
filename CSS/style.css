@@ -12,7 +12,7 @@ body {
   background-color: #3f9957;
   color: #ffffff;
   border: 5px solid #788078;
-  transition: transform 0.5s, box shadow 0.5s;
+  transition: transform 0.5s, box-shadow 0.5s;
   cursor: pointer;
 }
 
