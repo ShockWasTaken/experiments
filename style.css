@@ -6,3 +6,8 @@
   border: "5px"
   border-color: "#788078"
 }
+
+.btn:hover {
+  transform: translateY(5px);
+  box-shadow: 0 5px 10px rgba(66, 135, 245, 0.3)
+}
