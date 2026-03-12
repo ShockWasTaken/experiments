@@ -1,13 +1,13 @@
 .btn {
-  width: "200px"
-  height: "200px"
-  background-color: "#3f9957"
-  color: "#ffffff"
-  border: "5px"
-  border-color: "#788078"
+  width: 200px;
+  height: 200px;
+  background-color: #3f9957;
+  color: #ffffff;
+  border: 5px;
+  border-color: #788078;
 }
 
 .btn:hover {
   transform: translateY(5px);
-  box-shadow: 0 5px 10px rgba(66, 135, 245, 0.3)
+  box-shadow: 0 5px 10px rgba(66, 135, 245, 0.3);
 }
