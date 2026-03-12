@@ -3,8 +3,9 @@
   height: 200px;
   background-color: #3f9957;
   color: #ffffff;
-  border: 5px;
-  border-color: #788078;
+  border: 5px solid #788078;
+  transition: transform 0.2s, box shadow 0.2s;
+  cursor: pointer;
 }
 
 .btn:hover {
